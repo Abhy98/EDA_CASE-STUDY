@@ -9,9 +9,9 @@ The data given below contains the information about the loan application at the 
 
 1.The client with payment difficulties: he/she had late payment more than X days on at least one of the first Y instalments of the loan in our sample,
 
-1.All other cases: All other cases when the payment is paid on time.When a client applies for a loan,
+2.All other cases: All other cases when the payment is paid on time.When a client applies for a loan,
 
-There are four types of decisions that could be taken by the client/company):
+-->There are four types of decisions that could be taken by the client/company):
 
 1.Approved: The Company has approved loan Application.
 
