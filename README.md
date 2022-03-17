@@ -7,7 +7,7 @@ The data given below contains the information about the loan application at the 
 
 -->It contains two types of scenarios:
 
-1.The client with payment difficulties: he/she had late payment more than X days on at least one of the first Y instalments of the loan in our sample,
+1.The client with payment difficulties: he/she had late payment more than X days on at least one of the first Y installments of the loan in our sample,
 
 2.All other cases: All other cases when the payment is paid on time.When a client applies for a loan,
 
